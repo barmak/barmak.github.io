@@ -12,6 +12,8 @@ image: cutting.jpg
 * [How to draw a covariance error ellipse?](https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix/)
 * [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
 
+## Kalman Filter
+* [Greg Czerniak's KF introduction with python](http://greg.czerniak.info/guides/kalman1/)
 
 ## Misc
 * [Arduino KF](https://thecustomizewindows.com/2019/03/kalman-filter-to-stabilize-sensor-readings/)
