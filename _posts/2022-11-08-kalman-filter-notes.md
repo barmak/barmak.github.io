@@ -8,7 +8,6 @@ image: cutting.jpg
 ---
 
 ## Covariance Matrix
-[link to Google!](http://google.com)
-[How to Draw Ellipse of Covariance Matrix](https://cookierobotics.com/007/)
-[How to draw a covariance error ellipse?](https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix/)
-[A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+* [How to Draw Ellipse of Covariance Matrix](https://cookierobotics.com/007/)
+* [How to draw a covariance error ellipse?](https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix/)
+* [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
