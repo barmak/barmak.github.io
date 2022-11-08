@@ -14,6 +14,11 @@ image: cutting.jpg
 
 ## Kalman Filter
 * [Greg Czerniak's KF introduction with python](http://greg.czerniak.info/guides/kalman1/)
+* [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+* [The Kalman Filter: An algorithm for making sense of fused sensor insight](https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e)
+
+## Books
+* [Brian Anderson, Optimal Filtering (Dover Books on Electrical Engineering)](https://www.amazon.com/Optimal-Filtering-Dover-Books-Engineering/dp/0486439380)
 
 ## Misc
 * [Arduino KF](https://thecustomizewindows.com/2019/03/kalman-filter-to-stabilize-sensor-readings/)
